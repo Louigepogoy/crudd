@@ -1,0 +1,12 @@
+{
+  "name": "crud-project-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix crud run dev",
+    "build": "npm --prefix crud run build",
+    "start": "npm --prefix crud run start",
+    "lint": "npm --prefix crud run lint",
+    "api": "npm --prefix crud run api",
+    "api:dev": "npm --prefix crud run api:dev"
+  }
+}
